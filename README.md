@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Lower Chat Box
+Lowers chat box and hides chat buttons. 
