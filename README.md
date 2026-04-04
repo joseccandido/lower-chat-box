@@ -1,2 +1,2 @@
 # Lower Chat Box
-Lowers chat box and hides chat buttons. 
+On resizable mode, lowers chat box and hides chat buttons. 
